@@ -1,0 +1,13 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 localhost:35028         localhost:freeciv       TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     67481    
+unix  3      [ ]         STREAM     CONNECTED     67487    
+unix  3      [ ]         STREAM     CONNECTED     67486    
+unix  3      [ ]         STREAM     CONNECTED     67482    
+unix  3      [ ]         STREAM     CONNECTED     67485    
+unix  3      [ ]         STREAM     CONNECTED     67484    
+unix  3      [ ]         STREAM     CONNECTED     67480    
+unix  3      [ ]         STREAM     CONNECTED     67483    
