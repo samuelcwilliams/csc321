@@ -4,8 +4,8 @@ from scapy.all import *
 full_take = rdpcap("full-take.pcap")
 
 # initialize weather.pcap and task.pcap
-weather = PcapWriter("weather.pcap", append=True)
-task = PcapWriter("task.pcap", append=True)
+weather = []
+task = []
 
 # loop through each packer in full_take
 for packet in full_take:
@@ -14,10 +14,10 @@ for packet in full_take:
 
     # add packets to file based on time
     if timestamp < 1681180240:
-        weather.write(packet)
+        weather.append(packet)
     else:
-        task.write(packet)
+        task.append(packet)
 
-# close the weather and task files
-weather.close()
-task.close()
+# write to weather.pcap and task.pcap
+wrpcap("weather.pcap", weather)
+wrpcap("task.pcap", task)
