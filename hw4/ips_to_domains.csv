@@ -1,118 +1,103 @@
-google.com,record
-youtube.com,record
-facebook.com,record
-baidu.com,record
-yahoo.com,record
-amazon.com,record
-wikipedia.org,record
-qq.com,record
-google.co.in,record
-twitter.com,record
-live.com,record
-taobao.com,record
-google.co.jp,record
-bing.com,record
-instagram.com,record
-weibo.com,record
-sina.com.cn,record
-linkedin.com,record
-yahoo.co.jp,record
-msn.com,record
-vk.com,record
-google.de,record
-yandex.ru,record
-hao123.com,record
-google.co.uk,record
-reddit.com,record
-ebay.com,record
-google.fr,record
-t.co,record
-tmall.com,record
-google.com.br,record
-360.cn,record
-sohu.com,record
-amazon.co.jp,record
-pinterest.com,record
-mail.ru,record
-onclickads.net,record
-netflix.com,record
-google.it,record
-google.ru,record
-microsoft.com,record
-google.es,record
-wordpress.com,record
-gmw.cn,record
-tumblr.com,record
-PayPal.com,record
-blogspot.com,record
-imgur.com,record
-stackoverflow.com,record
-aliexpress.com,record
-Naver.com,record
-ok.ru,record
-apple.com,record
-github.com,record
-google.com.mx,record
-chinadaily.com.cn,record
-imdb.com,record
-google.co.kr,record
-fc2.com,record
-jd.com,record
-blogger.com,record
-163.com,record
-google.ca,record
-google.com.hk,record
-whatsapp.com,record
-amazon.in,record
-office.com,record
-google.com.tr,record
-tianya.cn,record
-google.co.id,record
-youku.com,record
-rakuten.co.jp,record
-craigslist.org,record
-amazon.de,record
-nicovideo.jp,record
-google.pl,record
-soso.com,e.proxy.sogou.com.
-bilibili.com,record
-dropbox.com,record
-xinhuanet.com,record
-outbrain.com,record
-pixnet.net,record
-alibaba.com,record
-alipay.com,record
-microsoftonline.com,record
-google.com.tw,record
-booking.com,record
-googleusercontent.com,record
-google.com.au,record
-popads.net,record
-cntv.cn,cntv.cn.wsglb0.com.
-zhihu.com,record
-amazon.co.uk,record
-diply.com,record
-coccoc.com,record
-cnn.com,record
-bbc.co.uk,record
-twitch.tv,record
-wikia.com,record
-google.co.th,record
-google.com.ar,record
-go.com,record
-google.nl,record
-ebay.co.uk,record
-kat.cr,record
-globo.com,record
-google.com.ua,record
-uol.com.br,record
-avito.ru,record
-google.com.co,record
-google.com.vn,record
-google.com.ph,record
-doubleclick.net,record
-onet.pl,record
-googleadservices.com,record
-accuweather.com,record
-googleweblight.com,record
-answers.yahoo.com,src.g03.yahoodns.net.
+172.217.2.46, ord37s52-in-f14.1e100.net
+2607:f8b0:4009:802::200e, ord37s52-in-f14.1e100.net ord37s07-in-x0e.1e100.net
+172.217.0.174, mia09s16-in-f14.1e100.net
+2607:f8b0:4009:803::200e, mia09s16-in-f14.1e100.net ord37s08-in-x0e.1e100.net
+31.13.65.36, edge-star-mini-shv-01-atl3.facebook.com
+2a03:2880:f111:83:face:b00c:0:25de, edge-star-mini-shv-01-atl3.facebook.com edge-star-mini6-shv-01-atl3.facebook.com
+98.137.11.164, media-router-fp73.prod.media.vip.gq1.yahoo.com
+2001:4998:44:3507::8000, media-router-fp73.prod.media.vip.gq1.yahoo.com media-router-fp73.prod.media.vip.ne1.yahoo.com
+208.80.153.224, text-lb.codfw.wikimedia.org
+2620:0:860:ed1a::1, text-lb.codfw.wikimedia.org text-lb.codfw.wikimedia.org
+142.251.32.3, ord38s33-in-f3.1e100.net
+2607:f8b0:4009:81c::2003, ord38s33-in-f3.1e100.net ord38s33-in-x03.1e100.net
+204.79.197.212, a-0010.a-msedge.net
+142.250.190.3, ord37s32-in-f3.1e100.net
+2607:f8b0:4009:808::2003, ord37s32-in-f3.1e100.net ord37s32-in-x03.1e100.net
+204.79.197.200, a-0001.a-msedge.net
+31.13.65.174, instagram-p42-shv-01-atl3.fbcdn.net
+2a03:2880:f211:e5:face:b00c:0:4420, instagram-p42-shv-01-atl3.fbcdn.net instagram-p426-shv-01-atl3.fbcdn.net
+87.240.132.78, srv78-132-240-87.vk.com
+142.250.190.99, ord37s35-in-f3.1e100.net
+2607:f8b0:4009:80b::2003, ord37s35-in-f3.1e100.net ord37s35-in-x03.1e100.net
+5.255.255.77, yandex.ru
+2a02:6b8:a::a, yandex.ru yandex.ru
+142.250.190.99, ord37s35-in-f3.1e100.net
+2607:f8b0:4009:80b::2003, ord37s35-in-f3.1e100.net ord37s35-in-x03.1e100.net
+209.140.139.232, ru-public-slcaz01-1-1.ebay.com
+172.217.2.35, atl14s78-in-f3.1e100.net
+2607:f8b0:4009:802::2003, atl14s78-in-f3.1e100.net ord37s52-in-x03.1e100.net
+172.217.2.35, atl14s78-in-f3.1e100.net
+2607:f8b0:4009:802::2003, atl14s78-in-f3.1e100.net ord37s52-in-x03.1e100.net
+94.100.180.200, mail.ru
+2a00:1148:db00:0:b0b0::1, mail.ru mail.ru
+3.211.157.115, ec2-3-211-157-115.compute-1.amazonaws.com
+142.250.191.227, ord38s32-in-f3.1e100.net
+2607:f8b0:4009:81b::2003, ord38s32-in-f3.1e100.net ord38s32-in-x03.1e100.net
+172.217.5.3, lga15s49-in-f3.1e100.net
+2607:f8b0:4009:807::2003, lga15s49-in-f3.1e100.net ord08s13-in-x03.1e100.net
+142.251.32.3, ord38s33-in-f3.1e100.net
+2607:f8b0:4009:81c::2003, ord38s33-in-f3.1e100.net ord38s33-in-x03.1e100.net
+192.0.77.40, assets.tumblr.com
+64.4.250.37, paypal.com
+142.251.32.9, ord38s33-in-f9.1e100.net
+2607:f8b0:4009:81c::2009, ord38s33-in-f9.1e100.net ord38s33-in-x09.1e100.net
+217.20.147.1, ip1.147.odnoklassniki.ru
+17.253.144.10, apple.com.hn
+2620:149:af0::10, apple.com.hn apple.com
+140.82.112.3, lb-140-82-112-3-iad.github.com
+142.251.32.3, ord38s33-in-f3.1e100.net
+2607:f8b0:4009:81c::2003, ord38s33-in-f3.1e100.net ord38s33-in-x03.1e100.net
+142.250.191.195, ord38s31-in-f3.1e100.net
+2607:f8b0:4009:81a::2003, ord38s31-in-f3.1e100.net ord38s31-in-x03.1e100.net
+142.250.191.201, ord38s31-in-f9.1e100.net
+2607:f8b0:4009:81a::2009, ord38s31-in-f9.1e100.net ord38s31-in-x09.1e100.net
+142.250.191.227, ord38s32-in-f3.1e100.net
+2607:f8b0:4009:81b::2003, ord38s32-in-f3.1e100.net ord38s32-in-x03.1e100.net
+142.250.191.227, ord38s32-in-f3.1e100.net
+2607:f8b0:4009:81b::2003, ord38s32-in-f3.1e100.net ord38s32-in-x03.1e100.net
+31.13.65.49, whatsapp-cdn-shv-01-atl3.fbcdn.net
+2a03:2880:f211:c5:face:b00c:0:167, whatsapp-cdn-shv-01-atl3.fbcdn.net whatsapp-cdn6-shv-01-atl3.fbcdn.net
+142.250.190.99, ord37s35-in-f3.1e100.net
+2607:f8b0:4009:80b::2003, ord37s35-in-f3.1e100.net ord37s35-in-x03.1e100.net
+142.250.190.99, ord37s35-in-f3.1e100.net
+2607:f8b0:4009:80b::2003, ord37s35-in-f3.1e100.net ord30s22-in-x03.1e100.net
+133.237.16.234, rakuten.co.jp
+208.82.237.129, www.craigslist.org
+142.250.191.131, ord38s29-in-f3.1e100.net
+2607:f8b0:4009:818::2003, ord38s29-in-f3.1e100.net ord38s29-in-x03.1e100.net
+139.159.241.37, ecs-139-159-241-37.compute.hwclouds-dns.com
+192.82.210.254, chi.outbrain.com
+103.23.108.107, ip-103-23-108-107.static.pixnet.tw
+142.250.191.99, ord38s28-in-f3.1e100.net
+2607:f8b0:4009:817::2003, ord38s28-in-f3.1e100.net ord38s28-in-x03.1e100.net
+5.57.16.220, www.booking.com
+142.250.190.131, ord37s36-in-f3.1e100.net
+2607:f8b0:4009:814::2003, ord37s36-in-f3.1e100.net ord37s36-in-x03.1e100.net
+123.30.175.29, coccoc.com
+142.251.32.3, ord38s33-in-f3.1e100.net
+2607:f8b0:4009:81c::2003, ord38s33-in-f3.1e100.net ord38s33-in-x03.1e100.net
+142.250.191.195, ord38s31-in-f3.1e100.net
+2607:f8b0:4009:81a::2003, ord38s31-in-f3.1e100.net ord38s31-in-x03.1e100.net
+23.236.60.174, 174.60.236.23.bc.googleusercontent.com
+172.217.4.35, lga15s46-in-f3.1e100.net
+2607:f8b0:4009:804::2003, lga15s46-in-f3.1e100.net ord38s18-in-x03.1e100.net
+209.140.139.232, ru-public-slcaz01-1-1.ebay.com
+186.192.90.12, 186-192-90-12.prt.globo.com
+172.217.0.163, yyz08s10-in-f163.1e100.net
+2607:f8b0:4009:803::2003, yyz08s10-in-f163.1e100.net ord38s42-in-x03.1e100.net
+200.147.35.149, 200-147-35-149-149.static.uol.com.br
+142.251.32.3, ord38s33-in-f3.1e100.net
+2607:f8b0:4009:81c::2003, ord38s33-in-f3.1e100.net ord38s33-in-x03.1e100.net
+172.217.2.35, atl14s78-in-f3.1e100.net
+2607:f8b0:4009:802::2003, atl14s78-in-f3.1e100.net ord37s52-in-x03.1e100.net
+142.250.190.99, ord37s35-in-f3.1e100.net
+2607:f8b0:4009:80b::2003, ord37s35-in-f3.1e100.net ord37s35-in-x03.1e100.net
+172.217.2.46, atl14s78-in-f14.1e100.net
+2607:f8b0:4009:802::200e, atl14s78-in-f14.1e100.net ord37s07-in-x0e.1e100.net
+99.83.207.202, aafc88a28d9997374.awsglobalaccelerator.com
+142.250.190.98, ord37s35-in-f2.1e100.net
+23.198.220.92, a23-198-220-92.deploy.static.akamaitechnologies.com
+172.217.1.97, yyz08s09-in-f1.1e100.net
+2607:f8b0:4009:801::2001, yyz08s09-in-f1.1e100.net ord37s51-in-x01.1e100.net
+3.218.253.195, ec2-3-218-253-195.compute-1.amazonaws.com
+src.g03.yahoodns.net., ec2-3-218-253-195.compute-1.amazonaws.com record
