@@ -4,9 +4,10 @@ After comparing the different files, I realized the easiest way to sort them wou
 
 ### Program Logic
 * Read `full-take.pcap`
+* Initialize two lists to hold weather packets and task packets
 * Iterate over each packet
-	* If timestamp is before `1681180237`, add to `weather.pcap`
+	* If timestamp is before `1681180237`, add to `weather`
 		* To find that specific time, I wrote the `see_time` program that is in the captures directory.
-	* Else, add to `task.pcap`
-* Return `weather.pcap` and `task.pcap`
+	* Else, add to `task`
+* Write contents of lists to `weather.pcap` and `task.pcap`
 
