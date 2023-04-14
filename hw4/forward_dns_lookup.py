@@ -1,7 +1,7 @@
 import subprocess
 
 # open input and output files
-with open('domains.tsv', 'r') as input_file, open('domains_to_ips.tsv', 'w') as output_file:
+with open('domains.tsv', 'r') as input_file, open('domains_to_ips.csv', 'w') as output_file:
 
     # skip header line
     next(input_file)
@@ -28,5 +28,6 @@ with open('domains.tsv', 'r') as input_file, open('domains_to_ips.tsv', 'w') as 
         except:
             pass
         
-        output_file.write(f"{domain}    {v4}  {v6}\n")
+        # write the output domain/addresses to the output file
+        output_file.write(f"{domain},{v4} {v6}\n")
 
