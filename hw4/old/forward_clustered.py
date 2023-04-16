@@ -1,7 +1,7 @@
 import subprocess, ipaddress
 
 # open input/output file
-with open('./tsv_files/domains.tsv', 'r') as input_file, open('./tsv_files/domain_to_ip.tsv', 'w') as output_file:
+with open('domains.tsv', 'r') as input_file, open('domain_to_ip.tsv', 'w') as output_file:
 
     # skip header
     next(input_file)
@@ -31,9 +31,9 @@ with open('./tsv_files/domains.tsv', 'r') as input_file, open('./tsv_files/domai
                 continue
 
             # add the address once validated
-            addresses =  str(ip_address)
+            addresses =  addresses + str(ip_address) + " "
 
-            # write to output file
-            output_file.write(f'{domain}\t{addresses}\n')
+        # write to output file
+        output_file.write(f'{domain}\t{addresses}\n')
 
         
