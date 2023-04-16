@@ -9,11 +9,11 @@
 ### Running the DNS Lookup Scripts:
 
 1. Clone the repository
-2. Run `hw4/forward.py`
-3. Run `hw4/reverse.py`
+2. Run `python hw4/forward.py`
+3. Run `python hw4/reverse.py`
 
 Output will be sent to `hw4/tsv_files`
 
 ### Viewing the Graph
 
-There is a screenshot of the graph I created in the `hw4` directory, but the `.png` version isn't interractive, so I recommend opening `hw4/jupyter/viz.ipynb` notebook to check out the visualization, if you're interested. 
+There's a screenshot of the graph I created in the `hw4` directory, but the `.png` version isn't interractive, so I recommend opening the `hw4/jupyter/viz.ipynb` notebook to check out the visualization, if you're interested. 
