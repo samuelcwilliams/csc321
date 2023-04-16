@@ -20,4 +20,3 @@ with open('../tsv_files/domain_to_ip.tsv', 'r') as input_file, open('../tsv_file
         if domain:
             # write to output file
             output_file.write(f'{columns[0]}\t{address}\t{domain}\n')
-        

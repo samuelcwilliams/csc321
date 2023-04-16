@@ -35,5 +35,3 @@ with open('../tsv_files/domains.tsv', 'r') as input_file, open('../tsv_files/dom
 
             # write to output file
             output_file.write(f'{domain}\t{addresses}\n')
-
-        
