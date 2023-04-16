@@ -30,7 +30,7 @@ with open('./tsv_files/domains.tsv', 'r') as input_file, open('./tsv_files/domai
             except ValueError:
                 continue
 
-            # add the address once validated
+            # add the validated address
             addresses =  str(ip_address)
 
             # write to output file
