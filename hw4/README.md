@@ -4,7 +4,7 @@
   
 * `hw4/scripts`: contains the scripts used for the forward and reverse DNS lookups
 * `hw4/tsv_files`: contains the `domains.tsv` file and other `.tsv` files are sent to this folder by the scripts
-* `hw4/jupyter`: contains the Jupyter Notebook I used to create my graph 
+* `hw4/jupyter`: contains the Jupyter Notebook I used to create my graph, as well as some boilerplate files used
 
 ### Running the DNS Lookup Scripts:
 
