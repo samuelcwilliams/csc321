@@ -1,7 +1,8 @@
 import subprocess, tldextract
 
 # open input/output file
-with open('./tsv_files/domain_to_ip.tsv', 'r') as input_file, open('./tsv_files/ip_to_domain.tsv', 'w') as output_file:
+with open('../tsv_files/domain_to_ip.tsv', 'r') as input_file, open('../tsv_files/ip_to_domain.tsv', 'w') as output_file:
+    output_file.write(f'original_domain\taddresses\tnew_domains\n')
 
     # iterate over file
     for line in input_file:

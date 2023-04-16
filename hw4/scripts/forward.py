@@ -1,7 +1,7 @@
 import subprocess, ipaddress
 
 # open input/output file
-with open('./tsv_files/domains.tsv', 'r') as input_file, open('./tsv_files/domain_to_ip.tsv', 'w') as output_file:
+with open('../tsv_files/domains.tsv', 'r') as input_file, open('../tsv_files/domain_to_ip.tsv', 'w') as output_file:
 
     # skip header
     next(input_file)
